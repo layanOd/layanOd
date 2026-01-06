@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Layan Odeh — Cybersecurity Graduate
+Layan Odeh 
 
 Cybersecurity graduate with strong hands-on experience in offensive and defensive security, vulnerability assessment, and incident response. Actively engaged in CTFs, CVE research, and building practical security tools and labs. Passionate about threat detection, secure system design, and continuous learning in enterprise and OT cybersecurity environments.
 
