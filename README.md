@@ -41,6 +41,16 @@ Kali Linux
 VirtualBox, Azure Labs
 Windows & Linux Systems
 Enterprise & Simulated Networks
+
+## 🛠️ Tools & Technologies
+
+Python | PyQt5 | Splunk | Burp Suite | Nmap | Metasploit | Volatility | Kali Linux | Azure 
+
+## 🌐 Languages
+
+Arabic — Native
+
+English — Professional Proficiency
 <!--
 **layanOd/layanOd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
